@@ -1,0 +1,12 @@
+*.suo
+WebApi/bin/
+WebApi/obj/
+WebApiOwinHost/bin/
+WebApiOwinHost/obj/
+WebApiSelfHost/bin/
+WebApiSelfHost/obj/
+WebApiSystemWebHost/bin/
+WebApiSystemWebHost/obj/
+lib/
+WebApiSystemWebHost/WebApiSystemWebHost.csproj.user
+WebApiOwinHost/WebApiOwinHost.csproj.user
